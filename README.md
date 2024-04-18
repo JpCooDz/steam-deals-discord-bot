@@ -1,4 +1,4 @@
-img src="https://i.ibb.co/qs02Tzr/Captura-de-tela-2024-04-18-191501.png" alt="steam deals discord bot" style="max-width:100%;">
+<img src="https://i.ibb.co/qs02Tzr/Captura-de-tela-2024-04-18-191501.png" alt="steam deals discord bot" style="max-width:100%;">
 
 # steam-deals-discord-bot
 
